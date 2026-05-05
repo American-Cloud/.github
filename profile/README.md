@@ -55,8 +55,8 @@ Full documentation → [americancloud.com/docs](https://americancloud.com/docs)
 - [x] American Cloud Enterprise — *Q3 2025*
 - [x] Managed WordPress — *Q1 2026*
 - [x] Managed Databases (beta) — *Q1 2026*
-- [ ] Control panel v2 — *Q1 2026* 🔄
-- [ ] API v2 — *Q1 2026* 🔄
+- [x] Control panel v2 — *Q1/Q2 2026*
+- [x] API v2 — *Q1/Q2 2026*
 - [ ] MCP Server — *Q2 2026*
 - [ ] Terraform Provider — *TBD*
 - [ ] Bare Metal as a Service — *TBD*
