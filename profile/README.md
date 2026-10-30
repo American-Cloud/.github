@@ -51,15 +51,16 @@ Full documentation → [americancloud.com/docs](https://americancloud.com/docs)
 
 ## 🗺️ Roadmap
 
-- [x] Data center #2 (us-central) — *Q2 2025*
-- [x] American Cloud Enterprise — *Q3 2025*
-- [x] Managed WordPress — *Q1 2026*
-- [x] Managed Databases (beta) — *Q1 2026*
-- [x] Control panel v2 — *Q1/Q2 2026*
-- [x] API v2 — *Q1/Q2 2026*
-- [ ] MCP Server — *Q2 2026*
-- [ ] Terraform Provider — *TBD*
-- [ ] Bare Metal as a Service — *TBD*
+- [x] Data center #2 (us-central), completed Q2 2025. Regions today: us-west-0, us-west-1 and us-central-0
+- [x] American Cloud Enterprise, completed Q3 2025
+- [x] Managed WordPress, completed Q1 2026
+- [x] Managed Databases, completed Q1 2026
+- [x] Control panel v2, completed Q1/Q2 2026
+- [x] API v2, completed Q1/Q2 2026
+- [x] MCP Server, completed Q2 2026
+- [x] Terraform Provider, completed Q2 2026
+- [ ] MCP 2.0, Q4 2026
+- [ ] Bare Metal as a Service, TBD
 
 ---
 
